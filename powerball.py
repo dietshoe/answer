@@ -1,4 +1,4 @@
-
+#Dietrich Szustak
 
 import random
 lottoUserList = []
